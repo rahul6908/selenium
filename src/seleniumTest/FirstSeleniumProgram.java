@@ -12,6 +12,9 @@ public class FirstSeleniumProgram {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.google.com/");
 		
+		// Hey there is a change in this project
+		// I uploaded the new project in the git hub repository
+		
 	}
 
 }
